@@ -4,6 +4,7 @@
 build
 dist
 venv
+inv_test_documents
 __pycache__
 *.egg-info
 _build
